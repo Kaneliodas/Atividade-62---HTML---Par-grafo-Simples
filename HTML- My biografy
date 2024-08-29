@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Biografia</title>
+</head>
+<body>
+    <h1>Minha Biografia</h1>
+
+    <!-- Parágrafo 1: Introdução -->
+    <p>Opa bom dia, boa tarde e boa noite, eu sou sousa e eu moro em maranguape 
+        atualmente estou estudando desenvolvimento de sistemas.</p>
+
+    <!-- Parágrafo 2: Interesses e Hobbies -->
+    <p>MInhas Atividades favoritas são: ler, jogar pokemon, treinar boxe, comer e dormir.</p>
+
+    <!-- Parágrafo 3: Planos Futuros -->
+    <p>Minhas principais metas pro futuro são ter estabilidade financeira, ser um programador senior
+    conseguir uma casa ou apartamento e viver uma vida tranquila.</p>
+</body>
+</html>
